@@ -1,5 +1,89 @@
-title,summary
-1. Acute Appendicitis,"The patient is a 24-year-old male with no significant past medical history. He presented with acute onset right lower quadrant abdominal pain, nausea, and fever. He has no known history of gastrointestinal disorders, surgeries, or chronic illness, and is a non-smoker who consumes alcohol occasionally. Family history is non-contributory, with no known family history of abdominal disorders.
+title,summary,hypertension-status,Age
+Pneumonia (Community-Acquired),"The patient is a 67-year-old female with a history of hypertension and type 2 diabetes mellitus. She presented with a 3-day history of fever, productive cough, and shortness of breath. Her physical exam revealed crackles in the right lower lung field. Family history includes a mother with a history of lung cancer and a father who had hypertension and coronary artery disease.
+
+The patient was diagnosed with community-acquired pneumonia (CAP) and treated with a course of intravenous ceftriaxone and azithromycin. Her fever resolved by day three, and she demonstrated significant clinical improvement. The patient was switched to oral antibiotics on day five and discharged after a 7-day course.
+
+She was advised to monitor her blood glucose levels closely and avoid smoking, as it may worsen her lung condition. The patient was instructed to follow up with her primary care physician within one week to ensure continued improvement.",1,67
+Acute Cholecystitis,"The patient is a 49-year-old male with a BMI of 35 and a history of gallstones. He presented with a 48-hour history of severe right upper quadrant pain, nausea, and vomiting. Ultrasound confirmed acute cholecystitis with no signs of gallbladder perforation or abscess formation. The patient has a known family history of gallbladder disease in his mother, who underwent cholecystectomy. His father had type 2 diabetes, and he is currently overweight with elevated blood sugar.
+
+The patient underwent a laparoscopic cholecystectomy within 24 hours of presentation. Intraoperative findings included an inflamed but intact gallbladder with no complications. His post-operative recovery was uncomplicated, and he was started on clear liquids within 6 hours.
+
+Discharge instructions included a low-fat diet for the next few weeks and recommendations for weight management. He is prescribed a 7-day course of oral antibiotics (ciprofloxacin) and pain management with acetaminophen.
+
+The patient was instructed to avoid heavy lifting for 2-4 weeks and follow up with general surgery in one week.",0,49
+Asthma Exacerbation,"The patient is a 15-year-old male with intermittent asthma. He presented with wheezing, shortness of breath, and cough, which had worsened over the past 48 hours following a viral upper respiratory tract infection. History of HTN. Family history includes a mother with asthma and a brother with allergic rhinitis.
+
+The patient was treated with nebulized albuterol and systemic corticosteroids. He showed rapid improvement and was discharged after 24 hours with instructions to use a prescribed inhaler (albuterol) and a 5-day course of prednisone.
+
+The patient was advised to avoid triggers such as smoke and dust and to follow up with his pediatric pulmonologist within one week.",1,15
+Cellulitis,"The patient is a 58-year-old diabetic male presenting with redness, warmth, and swelling over his left lower leg. No history of hypertension. He denied any trauma or recent infection in the area. Physical exam revealed localized cellulitis without signs of abscess formation. His blood glucose levels were elevated at the time of admission, reflecting poor diabetes control.
+
+The patient was treated with IV antibiotics (vancomycin and piperacillin-tazobactam) for 48 hours, followed by a 7-day course of oral antibiotics (cephalexin). Blood glucose levels were closely monitored, and adjustments were made to his diabetic regimen during hospitalization.
+
+The patient was discharged with instructions to keep the leg elevated, monitor for signs of worsening infection, and follow up with his primary care physician in one week.",0,58
+Migraine with Aura,"The patient is a 34-year-old female with a known history of migraines with aura. Possible hypertension. She presented with a severe headache associated with visual disturbances and nausea. The headache was of sudden onset and had been persistent for the past 12 hours. Her family history includes a maternal aunt with a history of migraines.
+
+The patient was treated with intravenous fluids, antiemetics, and a dose of sumatriptan. Symptoms improved significantly within 4 hours, and she was discharged with oral medications to manage future episodes. She was instructed to avoid known migraine triggers, such as stress and bright lights.
+
+The patient was advised to follow up with her neurologist in one month.",0,34
+Hypertensive Crisis,"The patient is a 58-year-old female  presenting with severe headache, blurred vision, and chest discomfort, suggesting a hypertensive crisis. Her blood pressure was recorded at 220/130 mmHg upon arrival.
+
+The patient was started on IV labetalol and was closely monitored in the ICU. Her blood pressure was controlled over 48 hours, and she was transitioned to oral antihypertensives. Upon discharge, she was instructed to monitor her blood pressure at home and follow up with her cardiologist in one week.",1,58
+Gastroenteritis (Viral),"The patient is a 26-year-old female with no chronic medical conditions. She presented with vomiting, diarrhea, and abdominal cramps for the past 24 hours. She denies any fever or blood in the stool. She reported a recent family gathering where other members had similar symptoms. Family history includes irritable bowel syndrome (IBS) in her father.
+
+The patient was diagnosed with viral gastroenteritis. She was treated with intravenous fluids for dehydration and was given antiemetics. After 24 hours of observation, her symptoms improved, and she was discharged with advice on maintaining oral hydration and a bland diet for the next 48 hours.
+
+Follow-up with her primary care physician is recommended if symptoms worsen.",0,26
+Diverticulitis (Uncomplicated),"The patient is a 63-year-old male with a history of diverticulosis. He presented with left lower quadrant abdominal pain, fever, and changes in bowel habits over the past 48 hours. CT scan revealed uncomplicated diverticulitis without abscess or perforation. His family history includes colon cancer in his father, and his father also had a history of diverticulosis.
+
+The patient was started on IV antibiotics (ciprofloxacin and metronidazole) and was transitioned to oral antibiotics after 48 hours. His symptoms improved significantly, and he was discharged after 5 days with a 7-day course of oral antibiotics.
+
+He was advised to follow a high-fiber diet after recovery and to return for a follow-up with gastroenterology in two weeks.",0,63
+Acute Myocardial Infarction,"The patient is a 58-year-old male with a significant history of hypertension and type 2 diabetes mellitus. He presented with chest pain radiating to his left arm, accompanied by shortness of breath and nausea. His family history is positive for heart disease; his father had a myocardial infarction at age 60.
+
+The patient was diagnosed with an acute inferior wall myocardial infarction and was managed with dual antiplatelet therapy, statins, and angioplasty. He was discharged on day 5 after successful percutaneous coronary intervention (PCI), with a prescription for aspirin, atorvastatin, and metoprolol.
+
+He was instructed to follow up with cardiology in two weeks and to maintain a low-sodium diet, regular exercise, and close monitoring of his blood glucose levels.",1,58
+Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,"The patient is a 71-year-old male with a history of chronic obstructive pulmonary disease (COPD) and smoking. He presented with increased shortness of breath, wheezing, and productive cough. He has a long-standing history of smoking, and his father had COPD.
+
+The patient was treated with nebulized bronchodilators, corticosteroids, and antibiotics for a bacterial exacerbation. His symptoms improved after 48 hours of inpatient treatment, and he was discharged on oral prednisone and a 5-day course of antibiotics. Smoking cessation counseling was provided, and he was advised to monitor his oxygen levels and follow up with pulmonology in one month.",0,71
+Peptic Ulcer Disease (PUD),"The patient is a 52-year-old female with a history of gastritis and a family history of peptic ulcers. She presented with epigastric pain, nausea, and bloating, which had worsened over the past two weeks. She reported frequent use of NSAIDs for knee arthritis.
+
+Upper GI endoscopy revealed a duodenal ulcer, and the patient was started on a proton pump inhibitor (PPI) regimen and H. pylori eradication therapy. She tolerated oral medications well and was discharged after 4 days. The patient was advised to avoid NSAIDs, alcohol, and smoking.
+
+Follow-up with gastroenterology was scheduled in one month for reassessment.",0,52
+Ankle Fracture (Uncomplicated),"The patient is a 45-year-old male who sustained an ankle fracture while playing basketball. He has a history of hypertension controlled with medication. He presented with ankle pain, swelling, and bruising following the injury.
+
+X-rays confirmed an uncomplicated distal fibula fracture. The patient underwent closed reduction and was placed in a plaster cast. Pain management with ibuprofen was prescribed, and the patient was instructed to keep weight off the ankle for at least six weeks. He was given crutches and advised to avoid strenuous activity during recovery.
+
+The patient will follow up with orthopedic surgery in two weeks.",0,45
+Gout,"The patient is a 62-year-old male with a history of gout and hypertension. He presented with severe pain and swelling in his right great toe. His uric acid level was elevated, and joint aspiration confirmed monosodium urate crystals.
+
+The patient was treated with colchicine and NSAIDs for symptom management, and his uric acid levels were adjusted with allopurinol. He was discharged after 48 hours of treatment, with instructions to avoid purine-rich foods and alcohol.
+
+He was advised to follow up with his rheumatologist in one month for further management.",1,62
+Urinary Tract Infection (UTI),"The patient is a 35-year-old female with no significant past medical history. She presented with dysuria, increased frequency, and lower abdominal discomfort. Urinalysis confirmed a urinary tract infection (UTI) caused by E. coli.
+
+The patient was started on a 5-day course of oral antibiotics (nitrofurantoin), and her symptoms began to improve within 24 hours. She was instructed to drink plenty of fluids and to take pain relievers as needed for discomfort. Family history includes diabetes, but the patient has no history of chronic urinary tract infections.
+
+Follow-up with her primary care physician in one week was recommended.",0,35
+Osteoarthritis (Knee),"The patient is a 72-year-old female with a history of osteoarthritis (OA) in both knees. She presented with knee pain, swelling, and difficulty walking. X-rays confirmed moderate-to-severe OA changes in the bilateral knees.
+
+She was treated with intra-articular corticosteroid injections in both knees and prescribed oral NSAIDs for pain management. The patient was advised to lose weight and engage in low-impact exercises, such as swimming. Follow-up with orthopedic surgery was scheduled in one month.",0,72
+Postpartum Depression,"The patient is a 29-year-old female, 4 weeks postpartum, who presented with feelings of sadness, lack of energy, and difficulty bonding with her newborn. She has a family history of depression.
+
+The patient was diagnosed with postpartum depression and started on a course of selective serotonin reuptake inhibitors (SSRIs) along with psychotherapy. She was referred to a mental health professional for ongoing support and was encouraged to engage in relaxation techniques.
+
+The patient was instructed to monitor her mood and return for a follow-up visit in two weeks.",0,29
+Tonsillitis,"The patient is a 16-year-old male with no significant past medical history. He presented with a sore throat, fever, and difficulty swallowing. Throat culture confirmed a diagnosis of bacterial tonsillitis caused by Group A Streptococcus.
+
+The patient was started on a 10-day course of oral antibiotics (amoxicillin). He was advised to increase fluid intake, rest, and avoid spreading the infection. Family history includes asthma in both the patient's father and older sibling.
+
+The patient was instructed to follow up if symptoms persist beyond one week.",0,16
+Hepatitis B (Acute),"The patient is a 42-year-old male who presented with jaundice, dark urine, and fatigue. He had a history of illicit drug use but denied any recent unprotected sexual encounters. Hepatitis B surface antigen was positive, and liver function tests were elevated, confirming acute hepatitis B infection.
+
+The patient was hospitalized for supportive care, and his condition improved over the course of 7 days. He was discharged with instructions to avoid alcohol and certain medications that could further stress the liver. He was advised to follow up with infectious disease and hepatology in one month.",0,42
+Acute Appendicitis,"The patient is a 24-year-old male with no significant past medical history. He presented with acute onset right lower quadrant abdominal pain, nausea, and fever. He has no known history of gastrointestinal disorders, surgeries, or chronic illness, and is a non-smoker who consumes alcohol occasionally. Family history is non-contributory, with no known family history of abdominal disorders.
 
 However, the patient’s maternal grandmother has a history of hypertension and diabetes, which was noted during family history assessment.
 
@@ -7,93 +91,9 @@ The prognosis is excellent post-appendectomy, as the condition was identified ea
 
 The patient underwent a laparoscopic appendectomy within 12 hours of presentation. Intraoperative findings were consistent with uncomplicated appendicitis. Post-operative recovery was uneventful, and he tolerated oral intake on postoperative day one. He remained afebrile and ambulatory with good wound healing.
 
-The patient is discharged on a 7-day course of oral antibiotics (amoxicillin-clavulanate) and acetaminophen for pain management. He was instructed to avoid strenuous activities and heavy lifting for at least two weeks. Instructions were given regarding wound care and signs of infection."
-2. Pneumonia (Community-Acquired),"The patient is a 67-year-old female with a history of hypertension and type 2 diabetes mellitus. She presented with a 3-day history of fever, productive cough, and shortness of breath. Her physical exam revealed crackles in the right lower lung field. Family history includes a mother with a history of lung cancer and a father who had hypertension and coronary artery disease.
-
-The patient was diagnosed with community-acquired pneumonia (CAP) and treated with a course of intravenous ceftriaxone and azithromycin. Her fever resolved by day three, and she demonstrated significant clinical improvement. The patient was switched to oral antibiotics on day five and discharged after a 7-day course.
-
-She was advised to monitor her blood glucose levels closely and avoid smoking, as it may worsen her lung condition. The patient was instructed to follow up with her primary care physician within one week to ensure continued improvement."
-3. Acute Cholecystitis,"The patient is a 49-year-old male with a BMI of 35 and a history of gallstones. He presented with a 48-hour history of severe right upper quadrant pain, nausea, and vomiting. Ultrasound confirmed acute cholecystitis with no signs of gallbladder perforation or abscess formation. The patient has a known family history of gallbladder disease in his mother, who underwent cholecystectomy. His father had type 2 diabetes, and he is currently overweight with elevated blood sugar.
-
-The patient underwent a laparoscopic cholecystectomy within 24 hours of presentation. Intraoperative findings included an inflamed but intact gallbladder with no complications. His post-operative recovery was uncomplicated, and he was started on clear liquids within 6 hours.
-
-Discharge instructions included a low-fat diet for the next few weeks and recommendations for weight management. He is prescribed a 7-day course of oral antibiotics (ciprofloxacin) and pain management with acetaminophen.
-
-The patient was instructed to avoid heavy lifting for 2-4 weeks and follow up with general surgery in one week."
-4. Pyelonephritis,"The patient is a 31-year-old female with no known past medical history. She presented with fever, chills, and dysuria for the past 48 hours. Urine culture revealed E. coli infection, confirming the diagnosis of pyelonephritis. She denies any history of recurrent urinary tract infections (UTIs) and is not on any chronic medications. Family history includes a mother with hypertension.
+The patient is discharged on a 7-day course of oral antibiotics (amoxicillin-clavulanate) and acetaminophen for pain management. He was instructed to avoid strenuous activities and heavy lifting for at least two weeks. Instructions were given regarding wound care and signs of infection.",0,24
+Pyelonephritis,"The patient is a 31-year-old female with no known past medical history. She presented with fever, chills, and dysuria for the past 48 hours. Urine culture revealed E. coli infection, confirming the diagnosis of pyelonephritis. She denies any history of recurrent UTIs and is not on any chronic medications. Family history includes a mother with hypertension.
 
 After receiving IV antibiotics (ceftriaxone), her fever resolved, and she reported significant improvement in symptoms by day 3. She was transitioned to oral antibiotics (trimethoprim-sulfamethoxazole) and discharged on day 5 with a 7-day course of antibiotics.
 
-The patient was advised to complete the full antibiotic course, hydrate adequately, and return for a follow-up urine culture in one week."
-5. Asthma Exacerbation,"The patient is a 15-year-old male with intermittent asthma. He presented with wheezing, shortness of breath, and cough, which had worsened over the past 48 hours following a viral upper respiratory tract infection. Family history includes a mother with asthma and a brother with allergic rhinitis.
-
-The patient was treated with nebulized albuterol and systemic corticosteroids. He showed rapid improvement and was discharged after 24 hours with instructions to use a prescribed inhaler (albuterol) and a 5-day course of prednisone.
-
-The patient was advised to avoid triggers such as smoke and dust and to follow up with his pediatric pulmonologist within one week."
-6. Gastroenteritis (Viral),"The patient is a 26-year-old female with no chronic medical conditions. She presented with vomiting, diarrhea, and abdominal cramps for the past 24 hours. She denies any fever or blood in the stool. She reported a recent family gathering where other members had similar symptoms. Family history includes irritable bowel syndrome (IBS) in her father.
-
-The patient was diagnosed with viral gastroenteritis. She was treated with intravenous fluids for dehydration and was given antiemetics. After 24 hours of observation, her symptoms improved, and she was discharged with advice on maintaining oral hydration and a bland diet for the next 48 hours.
-
-Follow-up with her primary care physician is recommended if symptoms worsen."
-7. Cellulitis,"The patient is a 58-year-old diabetic male presenting with redness, warmth, and swelling over his left lower leg. He denied any trauma or recent infection in the area. Physical exam revealed localized cellulitis without signs of abscess formation. His blood glucose levels were elevated at the time of admission, reflecting poor diabetes control.
-
-The patient was treated with IV antibiotics (vancomycin and piperacillin-tazobactam) for 48 hours, followed by a 7-day course of oral antibiotics (cephalexin). Blood glucose levels were closely monitored, and adjustments were made to his diabetic regimen during hospitalization.
-
-The patient was discharged with instructions to keep the leg elevated, monitor for signs of worsening infection, and follow up with his primary care physician in one week."
-8. Migraine with Aura,"The patient is a 34-year-old female with a known history of migraines with aura. She presented with a severe headache associated with visual disturbances and nausea. The headache was of sudden onset and had been persistent for the past 12 hours. Her family history includes a maternal aunt with a history of migraines.
-
-The patient was treated with intravenous fluids, antiemetics, and a dose of sumatriptan. Symptoms improved significantly within 4 hours, and she was discharged with oral medications to manage future episodes. She was instructed to avoid known migraine triggers, such as stress and bright lights.
-
-The patient was advised to follow up with her neurologist in one month."
-9. Diverticulitis (Uncomplicated),"The patient is a 63-year-old male with a history of diverticulosis. He presented with left lower quadrant abdominal pain, fever, and changes in bowel habits over the past 48 hours. CT scan revealed uncomplicated diverticulitis without abscess or perforation. His family history includes colon cancer in his father, and his father also had a history of diverticulosis.
-
-The patient was started on IV antibiotics (ciprofloxacin and metronidazole) and was transitioned to oral antibiotics after 48 hours. His symptoms improved significantly, and he was discharged after 5 days with a 7-day course of oral antibiotics.
-
-He was advised to follow a high-fiber diet after recovery and to return for a follow-up with gastroenterology in two weeks."
-10. Acute Myocardial Infarction,"The patient is a 58-year-old male with a significant history of hypertension and type 2 diabetes mellitus. He presented with chest pain radiating to his left arm, accompanied by shortness of breath and nausea. His family history is positive for heart disease; his father had a myocardial infarction at age 60.
-
-The patient was diagnosed with an acute inferior wall myocardial infarction and was managed with dual antiplatelet therapy, statins, and angioplasty. He was discharged on day 5 after successful percutaneous coronary intervention (PCI), with a prescription for aspirin, atorvastatin, and metoprolol.
-
-He was instructed to follow up with cardiology in two weeks and to maintain a low-sodium diet, regular exercise, and close monitoring of his blood glucose levels."
-11. Chronic Obstructive Pulmonary Disease (COPD) Exacerbation,"The patient is a 71-year-old male with a history of chronic obstructive pulmonary disease (COPD) and smoking. He presented with increased shortness of breath, wheezing, and productive cough. He has a long-standing history of smoking, and his father had COPD.
-
-The patient was treated with nebulized bronchodilators, corticosteroids, and antibiotics for a bacterial exacerbation. His symptoms improved after 48 hours of inpatient treatment, and he was discharged on oral prednisone and a 5-day course of antibiotics. Smoking cessation counseling was provided, and he was advised to monitor his oxygen levels and follow up with pulmonology in one month."
-12. Peptic Ulcer Disease (PUD),"The patient is a 52-year-old female with a history of gastritis and a family history of peptic ulcers. She presented with epigastric pain, nausea, and bloating, which had worsened over the past two weeks. She reported frequent use of NSAIDs for knee arthritis.
-
-Upper GI endoscopy revealed a duodenal ulcer, and the patient was started on a proton pump inhibitor (PPI) regimen and H. pylori eradication therapy. She tolerated oral medications well and was discharged after 4 days. The patient was advised to avoid NSAIDs, alcohol, and smoking.
-
-Follow-up with gastroenterology was scheduled in one month for reassessment."
-13. Ankle Fracture (Uncomplicated),"The patient is a 45-year-old male who sustained an ankle fracture while playing basketball. He has a history of hypertension controlled with medication. He presented with ankle pain, swelling, and bruising following the injury.
-
-X-rays confirmed an uncomplicated distal fibula fracture. The patient underwent closed reduction and was placed in a plaster cast. Pain management with ibuprofen was prescribed, and the patient was instructed to keep weight off the ankle for at least six weeks. He was given crutches and advised to avoid strenuous activity during recovery.
-
-The patient will follow up with orthopedic surgery in two weeks."
-14. Gout,"The patient is a 62-year-old male with a history of gout and hypertension. He presented with severe pain and swelling in his right great toe. His uric acid level was elevated, and joint aspiration confirmed monosodium urate crystals.
-
-The patient was treated with colchicine and NSAIDs for symptom management, and his uric acid levels were adjusted with allopurinol. He was discharged after 48 hours of treatment, with instructions to avoid purine-rich foods and alcohol.
-
-He was advised to follow up with his rheumatologist in one month for further management."
-15. Urinary Tract Infection (UTI),"The patient is a 35-year-old female with no significant past medical history. She presented with dysuria, increased frequency, and lower abdominal discomfort. Urinalysis confirmed a urinary tract infection (UTI) caused by E. coli.
-
-The patient was started on a 5-day course of oral antibiotics (nitrofurantoin), and her symptoms began to improve within 24 hours. She was instructed to drink plenty of fluids and to take pain relievers as needed for discomfort. Family history includes diabetes, but the patient has no history of chronic urinary tract infections.
-
-Follow-up with her primary care physician in one week was recommended."
-16. Hypertensive Crisis,"The patient is a 58-year-old female with a known history of hypertension. She presented with severe headache, blurred vision, and chest discomfort, suggesting a hypertensive crisis. Her blood pressure was recorded at 220/130 mmHg upon arrival.
-
-The patient was started on IV labetalol and was closely monitored in the ICU. Her blood pressure was controlled over 48 hours, and she was transitioned to oral antihypertensives. Upon discharge, she was instructed to monitor her blood pressure at home and follow up with her cardiologist in one week."
-17. Osteoarthritis (Knee),"The patient is a 72-year-old female with a history of osteoarthritis (OA) in both knees. She presented with knee pain, swelling, and difficulty walking. X-rays confirmed moderate-to-severe OA changes in the bilateral knees.
-
-She was treated with intra-articular corticosteroid injections in both knees and prescribed oral NSAIDs for pain management. The patient was advised to lose weight and engage in low-impact exercises, such as swimming. Follow-up with orthopedic surgery was scheduled in one month."
-18. Postpartum Depression,"The patient is a 29-year-old female, 4 weeks postpartum, who presented with feelings of sadness, lack of energy, and difficulty bonding with her newborn. She has a family history of depression.
-
-The patient was diagnosed with postpartum depression and started on a course of selective serotonin reuptake inhibitors (SSRIs) along with psychotherapy. She was referred to a mental health professional for ongoing support and was encouraged to engage in relaxation techniques.
-
-The patient was instructed to monitor her mood and return for a follow-up visit in two weeks."
-19. Tonsillitis,"The patient is a 16-year-old male with no significant past medical history. He presented with a sore throat, fever, and difficulty swallowing. Throat culture confirmed a diagnosis of bacterial tonsillitis caused by Group A Streptococcus.
-
-The patient was started on a 10-day course of oral antibiotics (amoxicillin). He was advised to increase fluid intake, rest, and avoid spreading the infection. Family history includes asthma in both the patient's father and older sibling.
-
-The patient was instructed to follow up if symptoms persist beyond one week."
-20. Hepatitis B (Acute),"The patient is a 42-year-old male who presented with jaundice, dark urine, and fatigue. He had a history of illicit drug use but denied any recent unprotected sexual encounters. Hepatitis B surface antigen was positive, and liver function tests were elevated, confirming acute hepatitis B infection.
-
-The patient was hospitalized for supportive care, and his condition improved over the course of 7 days. He was discharged with instructions to avoid alcohol and certain medications that could further stress the liver. He was advised to follow up with infectious disease and hepatology in one month."
+The patient was advised to complete the full antibiotic course, hydrate adequately, and return for a follow-up urine culture in one week.",0,31
