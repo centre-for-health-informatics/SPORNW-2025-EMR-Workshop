@@ -4,18 +4,23 @@ Pneumonia (Community-Acquired),"The patient is a 67-year-old female with a histo
 The patient was diagnosed with community-acquired pneumonia (CAP) and treated with a course of intravenous ceftriaxone and azithromycin. Her fever resolved by day three, and she demonstrated significant clinical improvement. The patient was switched to oral antibiotics on day five and discharged after a 7-day course.
 
 She was advised to monitor her blood glucose levels closely and avoid smoking, as it may worsen her lung condition. The patient was instructed to follow up with her primary care physician within one week to ensure continued improvement.",1,67
-Acute Cholecystitis,"The patient is a 49-year-old male with a BMI of 35 and a history of gallstones. He presented with a 48-hour history of severe right upper quadrant pain, nausea, and vomiting. Ultrasound confirmed acute cholecystitis with no signs of gallbladder perforation or abscess formation. The patient has a known family history of gallbladder disease in his mother, who underwent cholecystectomy. His father had type 2 diabetes, and he is currently overweight with elevated blood sugar.
+Acute Cholecystitis,"The patient is a 49-year-old male with a BMI of 35 and a history of gallstones, and struck by lightning 5 years ago. He presented with a 48-hour history of severe right upper quadrant pain, nausea, and vomiting. Ultrasound confirmed acute cholecystitis with no signs of gallbladder perforation or abscess formation. The patient has a known family history of gallbladder disease in his mother, who underwent cholecystectomy. His father had type 2 diabetes, and he is currently overweight with elevated blood sugar.
 
 The patient underwent a laparoscopic cholecystectomy within 24 hours of presentation. Intraoperative findings included an inflamed but intact gallbladder with no complications. His post-operative recovery was uncomplicated, and he was started on clear liquids within 6 hours.
 
 Discharge instructions included a low-fat diet for the next few weeks and recommendations for weight management. He is prescribed a 7-day course of oral antibiotics (ciprofloxacin) and pain management with acetaminophen.
 
 The patient was instructed to avoid heavy lifting for 2-4 weeks and follow up with general surgery in one week.",0,49
-Asthma Exacerbation,"The patient is a 15-year-old male with intermittent asthma. He presented with wheezing, shortness of breath, and cough, which had worsened over the past 48 hours following a viral upper respiratory tract infection. History of HTN. Family history includes a mother with asthma and a brother with allergic rhinitis.
+Gout,"The patient is a 62-year-old male with a history of gout. Hypertension present for the past 5 years. He presented with severe pain and swelling in his right great toe. His uric acid level was elevated, and joint aspiration confirmed monosodium urate crystals.
+
+The patient was treated with colchicine and NSAIDs for symptom management, and his uric acid levels were adjusted with allopurinol. He was discharged after 48 hours of treatment, with instructions to avoid purine-rich foods and alcohol.
+
+He was advised to follow up with his rheumatologist in one month for further management.",1,62
+Asthma Exacerbation,"The patient is a 55-year-old male with intermittent asthma. He presented with wheezing, shortness of breath, and cough, which had worsened over the past 48 hours following a viral upper respiratory tract infection. History of HTN. Family history includes a mother with asthma and a brother with allergic rhinitis.
 
 The patient was treated with nebulized albuterol and systemic corticosteroids. He showed rapid improvement and was discharged after 24 hours with instructions to use a prescribed inhaler (albuterol) and a 5-day course of prednisone.
 
-The patient was advised to avoid triggers such as smoke and dust and to follow up with his pediatric pulmonologist within one week.",1,15
+The patient was advised to avoid triggers such as smoke and dust and to follow up with his pediatric pulmonologist within one week.",1,55
 Cellulitis,"The patient is a 58-year-old diabetic male presenting with redness, warmth, and swelling over his left lower leg. No history of hypertension. He denied any trauma or recent infection in the area. Physical exam revealed localized cellulitis without signs of abscess formation. His blood glucose levels were elevated at the time of admission, reflecting poor diabetes control.
 
 The patient was treated with IV antibiotics (vancomycin and piperacillin-tazobactam) for 48 hours, followed by a 7-day course of oral antibiotics (cephalexin). Blood glucose levels were closely monitored, and adjustments were made to his diabetic regimen during hospitalization.
@@ -57,11 +62,6 @@ Ankle Fracture (Uncomplicated),"The patient is a 45-year-old male who sustained 
 X-rays confirmed an uncomplicated distal fibula fracture. The patient underwent closed reduction and was placed in a plaster cast. Pain management with ibuprofen was prescribed, and the patient was instructed to keep weight off the ankle for at least six weeks. He was given crutches and advised to avoid strenuous activity during recovery.
 
 The patient will follow up with orthopedic surgery in two weeks.",0,45
-Gout,"The patient is a 62-year-old male with a history of gout and hypertension. He presented with severe pain and swelling in his right great toe. His uric acid level was elevated, and joint aspiration confirmed monosodium urate crystals.
-
-The patient was treated with colchicine and NSAIDs for symptom management, and his uric acid levels were adjusted with allopurinol. He was discharged after 48 hours of treatment, with instructions to avoid purine-rich foods and alcohol.
-
-He was advised to follow up with his rheumatologist in one month for further management.",1,62
 Urinary Tract Infection (UTI),"The patient is a 35-year-old female with no significant past medical history. She presented with dysuria, increased frequency, and lower abdominal discomfort. Urinalysis confirmed a urinary tract infection (UTI) caused by E. coli.
 
 The patient was started on a 5-day course of oral antibiotics (nitrofurantoin), and her symptoms began to improve within 24 hours. She was instructed to drink plenty of fluids and to take pain relievers as needed for discomfort. Family history includes diabetes, but the patient has no history of chronic urinary tract infections.
